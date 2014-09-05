@@ -50,6 +50,11 @@ body {
   font-weight: bold;
 }
 
+.slide h3 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
 .slide .subsection h1 {
   text-align: center;
 }

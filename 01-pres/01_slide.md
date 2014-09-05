@@ -10,10 +10,10 @@
 <br>
 Di Tommaso - Collard Bovy
 
-
 !SLIDE smbullets transition=uncover
 # Temas #
 
+## Sintaxis, tipos de datos y estructuras de control en Python y ADA ###
 * Características de Python.
 * Características de ADA.
 * Comparación entre Python y ADA.
