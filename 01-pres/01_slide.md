@@ -31,7 +31,7 @@ Di Tommaso - Collard Bovy
 # Características de Python #
 
 * Tipado dinámico y fuerte.
-* Manejo avazado de strings.
+* Manejo avanzado de strings.
 * Soporte para excepciones.
 * Programas fáciles de leer.
 
